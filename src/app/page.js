@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <>
        <HomeHeader />
-       <div className="flex flex-col items-center mt-24">
+       <div className="flex flex-col items-center mt-48">
          <Image
            src="https://freelogopng.com/images/all_img/1657952217google-logo-png.png"
            alt="Google Logo"
